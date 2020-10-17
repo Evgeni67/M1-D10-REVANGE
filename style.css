@@ -1,0 +1,33 @@
+footer{
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 3px;
+}
+/* CSS EXERCISES
+        11) Give a maximum width to the body and center it in the page (-------DONE--------)
+        12) Set every h1 to be centered (-------DONE--------)
+        13) Change the color of each link in the page (-------IMAGE LINK?--------)
+        14) Create a class with a border(-------DONE--------)
+        15) Set table to have rounded corners (-------DONE--------)
+        16) Add margin between every paragraph
+        17) Create a class which change font size and boldness
+        18) Create a class to hide a content
+        19) Add a green border to each td
+        20) Add a dotted red border to each td (note: td does not accept a border property ;-) ) */
+
+    .everything{
+        max-width: 500px;
+        margin: auto;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+    table.roundedCorners { 
+        border: 5px darkblue solid;
+        border-radius: 25px; 
+        }
+       
+        
